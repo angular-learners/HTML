@@ -1,0 +1,260 @@
+    
+
+STEPS TO BECOME ANGULAR DEVELOPER     45 (classes)
+
+
+1.HTML
+2.CSS
+3.JS
+4.TS
+5.Angular
+
+
+PRO ANGULAR
+
+1.HTML
+
+       Why we need to learn HTML?
+
+        HTML  hyper text markup language
+
+        To create a webpages
+
+
+     ANGULAR
+         
+         
+         KT(knowledge Transfer)
+         
+         
+  ECOMMERCE (flipkart,amazon,myntra)
+
+  BANKING   (SBI,ICICI,BANK OF BARAODA)
+  INSURANCE (digit)
+  HEALTH CARE (apollo,kamineni,yashoda)
+  STREAMING   (hotstar )
+
+
+             TCS  
+              
+           1.ECOMMERCE             10
+               FRESHER TL/MANAGER
+
+                UI/FRONTEND =====>ANGULAR/REACT/VUE JS
+                                      
+                                AJILE==>SPRINT===>JIRA ===>BUSINESS ANALYST==>
+                              
+                               description
+ 
+                            1. Create a input feild pincode
+                            2.Create a input feild mobilenumber
+                            3.Create a button name a view Prices
+
+                BACKEND==========>JAVA/PYTHON/C#
+                DB==============>ORACLE/MYSQL/MONGO DB/POSTGRE SQL
+
+
+
+      extensions
+             .html
+             .css
+             .ts
+             .java
+             .py
+             .js
+
+
+
+1.Headings       ===>   h1 to   h6
+
+2.How to Display images on Webpages
+
+     1.Static  (downloading and adding into the our webpage)
+     2.Dynamic
+
+ Images
+   .jpg
+   .png
+   .jpeg
+
+
+       <img  src="<URL>" alt="">
+
+            src="nature_image.jpg"  (static)
+            src="https://img.etimg.com/thumb/msid-98912259,width-650,height-488,imgsize-67876,,resizemode-75/virat-kohli.jpg" (dynamic URL)
+
+        alt==>alternative
+        alt="nature image"
+
+       src="natur_image.jpg"
+
+
+HTML Tables
+==============
+
+
+   S.NO       CRICKTER NAME       AGE        TEAM      BATESMAN/BOWLER
+
+    1          VIRAT KHOLI         36         IND         BATSMEN
+    2          MAXWELL             34         AUS         ALL ROUNDER
+
+
+
+    <table>
+          <thead>       <!-- table head -->
+              <tr>  <!--  table row   -->  
+               <th>S.NO </th>   <!-- table heading --> 
+               <th>CRICKTER NAME</th>
+               <th>AGE</th>
+               <th>Team></th>
+               <th>BATESMAN/BOWLER</th>
+              </tr>
+         </thead>
+
+         <tbody>
+             <tr>   <!-- 1st row -->
+               <td>1</td>        <!--  table data -->
+               <td>VIRAT KHOLI</td>
+               <td>36</td>
+               <td>IND</td>
+               <td>BATSMEN</td>
+             </tr>
+
+             <tr>  <!-- 2nd row -->
+               <td>2</td>        <!--  table data -->
+               <td>MAXWELL</td>
+               <td>34</td>
+               <td>AUS</td>
+               <td>ALL ROUNDER</td>
+             </tr>
+
+         </tbody>
+
+   </table>
+
+HTML  Lists
+=============
+
+ 1.Ordered List
+                      # Crickter Names
+                       
+                       1.Rishab Pant
+                       2.Brett Lee
+                       3.Tim Southee  
+
+            <ol> <!-- Ordered List -->
+                <li>Rishab Pant<li/>    <!--  li-> list item -->
+                <li>Brett Lee</li>
+                <li>Tim Southee</li>
+            <ol>                
+         
+
+ 2.UnOrdered List
+                    #  Technologies
+                         .HTML
+                         .CSS
+                         .JS
+                         .TS
+                         .Angular       
+
+
+         <ul> <!-- Unordered List -->
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JS</li>
+                <li>TS</li>
+                <li>Angular</li>
+         </ul>
+ 
+3.Nested List
+
+                  #Technologies
+                    .HTML
+                         head
+                         html
+                         body
+
+                    .css
+                        width
+                        height
+
+            OrderedList/Un Orderded List
+
+              <ul>
+               <li>HTML <ul>
+                   <li>head</li>
+                   <li>html<li>
+                   <li>body<li>
+                </ul>  
+               <li>
+             </ul>                        
+               <ul>
+               <li>CSS <ul>
+                   <li>width</li>
+                   <li>height<li>
+                </ul>  
+               <li>
+             </ul>   
+                
+
+
+       ASSIGNMENT-1
+ =============================
+                     
+
+     VIRAT KHOLI
+    
+        <VIRAT IMAGE>
+
+
+
+      DHONI
+    
+        <DHONI IMAGE>
+
+       
+       ABD
+    
+        <ABD IMAGE>
+
+==========================================================================================================
+
+    ASSIGNMENTS
+            01_ASSIGNMENT
+                  images
+              index.html
+
+
+ Assignment No-2
+====================
+
+  Display List of   Person Names (1)        BOWLERS Names (1)
+
+
+    5records
+
+       S.NO        FIRSTNAME       LATNAME    EMAIL     MOBILE NUMBER        CITY
+         1
+         2
+         3
+         4
+         5
+
+
+Assignment  NO-3
+================
+
+         List fruits  (OL)
+         List Colors  (UL)
+         
+         List Bikes (using Nested)
+         List Of Cars (using Nested)
+
+
+
+
+
+
+
+
+
