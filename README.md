@@ -44,4 +44,46 @@
             </tr>
         </tbody>
     </table>
+
+# HTML Lists
+
+  <ol>
+    <!-- Ordered List -->
+    <li>Rishab Pant</li>
+    <!--  li-> list item -->
+    <li>Brett Lee</li>
+    <li>Tim Southee</li>
+    <ol>
+      <ol type="I">
+        <!-- Ordered List -->
+        <li>Rishab Pant</li>
+        <!--  li-> list item -->
+        <li>Brett Lee</li>
+        <li>Tim Southee</li>
+        <ol>
+          <h3>Un Ordered List</h3>
+          <ul>
+            <!-- Unordered List -->
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JS</li>
+            <li>TS</li>
+            <li>Angular</li>
+          </ul>
+          <h3>Nested List</h3>
+          <ul>
+            <li>HTML <ul>
+                <li>head</li>
+                <li>html</li>
+                <li>body</li>
+              </ul>
+            </li>
+          </ul>
+            <ul>
+            <li>CSS <ul>
+                <li>width</li>
+                <li>height</li>
+              </ul>
+            </li>
+          </ul>
     
