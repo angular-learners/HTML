@@ -86,4 +86,21 @@
               </ul>
             </li>
           </ul>
-    
+
+
+# HTML Links
+
+      <!-- Dynamic Links-->
+     
+     <a href="https://google.com" target="_blank">Google</a>
+     <a href="https://facebook.com" target="_blank">Facebook</a>
+     <a href="https://myntra.com" target="_blank">Myntra</a>
+
+
+     <!-- Static Links-->
+
+      <h4>Top Wear</h4>
+      <div><a href="./shirts/t_shirts.html" target="_blank">T-Shirts</a></div> <!-- divison tag-->
+      <div><a href="./shirts/causual_shirts.html" target="_blank">Causual Shirts</a> </div>
+      <div><a href="./shirts/formal_shirts.html" target="_blank">Formal Shirts</a> </div>
+
