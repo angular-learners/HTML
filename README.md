@@ -70,13 +70,14 @@
             <li>TS</li>
             <li>Angular</li>
           </ul>
+            
           <h3>Nested List</h3>
           <ul>
-            <li>HTML <ul>
+            <li>HTML<ul>
                 <li>head</li>
                 <li>html</li>
                 <li>body</li>
-              </ul>
+            </ul>
             </li>
           </ul>
             <ul>
@@ -85,8 +86,8 @@
                 <li>height</li>
               </ul>
             </li>
-
             </ul>
+            
 # HTML Links
 
       <!-- Dynamic Links-->
